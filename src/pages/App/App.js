@@ -7,11 +7,11 @@ function App() {
   return (
     <div className="App">
       <Router>
-        <Route path="/admin">
-          <Admin />
-        </Route>
         <Route exact path="/">
           <Login />
+        </Route>
+        <Route path="/admin">
+          <Admin />
         </Route>
       </Router>
     </div>
