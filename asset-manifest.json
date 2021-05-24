@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/nuden/static/css/main.feab4728.chunk.css",
-    "main.js": "/nuden/static/js/main.3730b1e6.chunk.js",
-    "main.js.map": "/nuden/static/js/main.3730b1e6.chunk.js.map",
+    "main.css": "/nuden/static/css/main.c9a8b825.chunk.css",
+    "main.js": "/nuden/static/js/main.b2817a16.chunk.js",
+    "main.js.map": "/nuden/static/js/main.b2817a16.chunk.js.map",
     "runtime-main.js": "/nuden/static/js/runtime-main.adbbf3ec.js",
     "runtime-main.js.map": "/nuden/static/js/runtime-main.adbbf3ec.js.map",
     "static/js/2.13c9888d.chunk.js": "/nuden/static/js/2.13c9888d.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.d9aa32ec.chunk.js": "/nuden/static/js/3.d9aa32ec.chunk.js",
     "static/js/3.d9aa32ec.chunk.js.map": "/nuden/static/js/3.d9aa32ec.chunk.js.map",
     "index.html": "/nuden/index.html",
-    "static/css/main.feab4728.chunk.css.map": "/nuden/static/css/main.feab4728.chunk.css.map",
+    "static/css/main.c9a8b825.chunk.css.map": "/nuden/static/css/main.c9a8b825.chunk.css.map",
     "static/js/2.13c9888d.chunk.js.LICENSE.txt": "/nuden/static/js/2.13c9888d.chunk.js.LICENSE.txt",
     "static/media/elec.c7a11951.png": "/nuden/static/media/elec.c7a11951.png"
   },
   "entrypoints": [
     "static/js/runtime-main.adbbf3ec.js",
     "static/js/2.13c9888d.chunk.js",
-    "static/css/main.feab4728.chunk.css",
-    "static/js/main.3730b1e6.chunk.js"
+    "static/css/main.c9a8b825.chunk.css",
+    "static/js/main.b2817a16.chunk.js"
   ]
 }
