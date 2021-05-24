@@ -1,0 +1,35 @@
+.container {
+  width: 50%;
+  height: 10%;
+  margin-left: 15%;
+  margin-right: 35%;
+  border-radius: 17px;
+  margin-top: 2vh;
+  display: flex;
+  cursor: pointer;
+}
+
+.icon {
+  width: 30%;
+  height: 100%;
+  display: flex;
+  border-radius: 17px 0 0 17px;
+  font-size: 2rem;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  color: #fcfdfd;
+}
+.icon :active {
+  color: aqua;
+}
+.text {
+  width: 70%;
+  height: 100%;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  font-size: 1.62rem;
+  color: #fcfdfd;
+  border-radius: 0 17px 17px 0;
+}

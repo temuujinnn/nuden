@@ -1,0 +1,131 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  text-align: center;
+}
+.layer {
+  width: 70%;
+  height: 80%;
+  margin: auto;
+  display: flex;
+  background-color: #fff;
+  box-shadow: 0 0.5em 1em -0.125em rgb(10 10 10 / 10%),
+    0 0px 0 1px rgb(10 10 10 / 2%);
+  border-radius: 10px;
+}
+.img {
+  width: 50%;
+  height: 100%;
+  background-color: black;
+}
+.form {
+  display: flex;
+  width: 50%;
+  height: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.text {
+  width: 80%;
+  height: 10%;
+  font-size: 3rem;
+  text-align: left;
+  margin-left: 20%;
+}
+.inputName {
+  display: flex;
+  width: 80%;
+  height: 6%;
+  margin-left: 20%;
+}
+.inputN {
+  width: 60%;
+  height: auto;
+  border-radius: 0 15px 15px 0;
+  border: 1px solid black;
+  border-left: none;
+  background-color: #cad5e2;
+  border: none;
+}
+.logo {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 7%;
+  height: auto;
+  border: 1px solid black;
+  border-right: none;
+  background-color: white;
+  border-radius: 15px 0 0 15px;
+  background-color: #cad5e2;
+  border: none;
+}
+.inputPass {
+  display: flex;
+  width: 80%;
+  height: 6%;
+  margin-left: 20%;
+  margin-top: 2vh;
+}
+.inputP {
+  width: 50%;
+  height: auto;
+
+  border: 1px solid black;
+  border-left: none;
+  border-right: none;
+  background-color: #cad5e2;
+  border: none;
+}
+.eyeIcon {
+  width: 10%;
+  height: 100%;
+  border: 1px solid black;
+  border-left: none;
+  border-radius: 0 15px 15px 0;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  background-color: #cad5e2;
+  border: none;
+  font-size: 2rem;
+}
+.button {
+  display: flex;
+  width: 62%;
+  height: 2%;
+  margin: 2%;
+}
+.forget {
+  display: flex;
+  width: 90%;
+  height: 5%;
+}
+.p {
+  width: 78%;
+  text-align: right;
+}
+.contact {
+  width: 60%;
+  height: 20%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.contactButton {
+  display: flex;
+  flex-direction: row;
+
+  width: 90%;
+  height: 20%;
+  color: black;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  border-radius: 20px;
+}

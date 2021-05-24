@@ -1,0 +1,15 @@
+.table {
+  width: 100%;
+  font-size: 1.2rem;
+  font-weight: 200;
+  border-radius: 0 10px 0 10px;
+  border-collapse: collapse;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+}
+.row1 {
+  background-color: #4d7495;
+  height: 5vh;
+  width: 20%;
+}
