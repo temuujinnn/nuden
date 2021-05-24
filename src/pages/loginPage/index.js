@@ -25,7 +25,9 @@ const Login = () => {
     console.log("form", values);
   };
   const validationSchema = Yup.object().shape({
-    email: Yup.string().email("Invalid email").required("Е-шуудан оруулна уу"),
+    email: Yup.string()
+      .email("Хэрэглэгчийн нэр олдсонгүй")
+      .required("Нэвтрэх нэр оруулна уу"),
     password: Yup.string()
       .min(8, "Too Short!")
       .max(50, "Too Long!")
