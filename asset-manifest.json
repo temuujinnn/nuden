@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/nuden/static/css/main.feab4728.chunk.css",
-    "main.js": "/nuden/static/js/main.4a50b3ca.chunk.js",
-    "main.js.map": "/nuden/static/js/main.4a50b3ca.chunk.js.map",
+    "main.js": "/nuden/static/js/main.3730b1e6.chunk.js",
+    "main.js.map": "/nuden/static/js/main.3730b1e6.chunk.js.map",
     "runtime-main.js": "/nuden/static/js/runtime-main.adbbf3ec.js",
     "runtime-main.js.map": "/nuden/static/js/runtime-main.adbbf3ec.js.map",
     "static/js/2.13c9888d.chunk.js": "/nuden/static/js/2.13c9888d.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.adbbf3ec.js",
     "static/js/2.13c9888d.chunk.js",
     "static/css/main.feab4728.chunk.css",
-    "static/js/main.4a50b3ca.chunk.js"
+    "static/js/main.3730b1e6.chunk.js"
   ]
 }
