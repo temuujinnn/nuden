@@ -99,6 +99,10 @@
   height: 2%;
   margin: 2%;
 }
+.button :hover {
+  background-color: #1b98f5;
+  color: black;
+}
 .forget {
   display: flex;
   width: 90%;
