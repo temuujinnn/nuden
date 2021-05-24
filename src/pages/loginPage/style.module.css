@@ -129,3 +129,8 @@
   font-weight: bold;
   border-radius: 20px;
 }
+.alert {
+  width: 20%;
+  height: 4%;
+  color: red;
+}

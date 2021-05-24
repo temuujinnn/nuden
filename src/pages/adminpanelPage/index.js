@@ -17,7 +17,7 @@ const Admin = () => {
             <Search />
           </div>
           <div className={css.button}>
-            <Button />
+            <Button text="+Хэрэглэгч нэмэх" />
           </div>
         </div>
         <div className={css.table}>
